@@ -1,0 +1,6 @@
+first_name = input("enter a first name: ")
+lest_name = input("enter a first name: ")
+year_of_birth =int(input("enter a Year of birth: "))
+name = first_name.lower()
+lest_n = lest_name.lower()
+print(f"{name}{lest_n}{year_of_birth}@gmail.com")
